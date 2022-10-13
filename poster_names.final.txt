@@ -1,0 +1,45 @@
+Poster Number	Poster Room	Title	Authors
+1	A	Assessing the importance of diagnostic information in learning low-dimensional embedding of high-dimensional abnormal neural correlates	Wenjun Bai, Tomoki Tokuda, Okito Yamashita, Junichiro Yoshimoto
+2	A	Protein embeddings and deep learning predict binding residues for various ligand classes	Maria Littmann, Michael Heinzinger, Christian Dallago, Konstantin Weissenow, Burkhard Rost
+3	A	Optimal Design of Stochastic DNA Synthesis Protocols Based on Generative Sequence Models (video)	Eli N Weinstein, Alan Nawzad Amin, Will Sussman Grathwohl, Daniel Kassler, Jean Disset, Debora Susan Marks
+4	A	Benchmarking deep generative models for diverse antibody sequence design	Igor Melnyk, Payel Das, Vijil Chenthamarakshan, Aurelie Lozano
+5	A	Scalable estimation of microbial co-occurrence networks with Variational Autoencoders (video)	James Morton, Justin Silverman, Gleb Tikhonov, Harri Lähdesmäki, Richard Bonneau
+6	A	CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning (video)	Stanley Bryan Zamora Hua, Alex Xijie Lu, Alan Moses
+7	A	Elucidation of proteasomal cleavage patterns from HLA peptidome data through deep learning	Emilio Dorigatti, Julian Arnold, Bernd Bischl, Benjamin Schubert
+8	A	Bidirection Prediction Model for Transcriptomics and Proteomics	Tianyu Liu, Yuge Wang, Hongyu Zhao
+9	A	AugmentedPCA: A Python Package of Supervised and Adversarial Linear Factor Models	William E Carson IV, Austin Talbot, David Carlson
+10	A	A Graph Neural Network Approach to Molecule Carcinogenicity Prediction (video)	Philip Fradkin, Adamo Young, Lazar Atanackovic, Leo J Lee, Brendan Frey, BO WANG
+11	A	Organ Source Prediction for Exosomal Proteomics via Protein Language Models	Xinbo Wu, Alexandru Hanganu, Ayuko Hoshino, Lav R. Varshney
+12	A	Enhancing the affinity of protein-protein interactions by multiple amino acid mutations predicted by deep neural networks	Reut Moshe, Niv Papo, Yaron Orenstein
+13	A	Towards data-driven design of context-specific regulatory elements (video)	Peter Bromley, Wouter Meuleman
+14	A	Learning a representation of cellular morphology: unsupervised deep learning for shape and texture characterization of cells in EM data (video)	Valentyna Zinchenko, Johannes Hugger, Virginie Uhlmann, Detlev Arendt, Anna Kreshuk
+15	A	Machine learning for novel antibiotic candidate domains - conjugated oligoelectrolytes	Armi Tiihonen, Sarah J Cox-Vazquez, Guillermo Bazan, Tonio Buonassisi
+16	A	Bayesian nonparametric strategies for power maximization in rare variants association studies (video)	Lorenzo Masoero, Joshua Schraiber, Tamara Broderick
+17	B	Deep Generative Modeling of Transcription Factor-Gene Expression Relationships	Byunguk Kang, Daniel Y. Zhu, William Souillard-Mandar, Hattie Chung, Fei Chen
+18	B	TeraTox empowers preclinical teratogenicity assessment with stem cells, sequencing, and explainable machine learning (video)	Jitao David Zhang, Manuela Jaklin, Nicole Schäfer, Nicole Clemann, Paul Barrow, Erich Küng, Lisa Sach-Peltason, Claudia McGinnis, Marcel Leist, Stefan Kustermann
+19	B	Optimal Design of Experiments for Simulation Based Inference of Mechanistic Acyclic Biological Networks (video)	Vincent Zaballa, Elliot Hui
+20	B	Protein Organization with Manifold Exploration and Spectral Clustering	Shahab Shams, Geoffroy Dubourg-Felonneau, Eyal Akiva, Lawrence Lee
+21	B	Towards Remote Protein Homology Detection: Pairwise Alignment Using Locally Enriched Transformers	Siva Muthupalaniappan, Sean R Eddy, Sam Petti
+22	B	A Bayesian nonparametric model for aligning spatial gene expression data (video)	Andrew Jones, F. William Townes, Didong Li, Barbara Engelhardt
+23	B	Leveraging Adversarial Reprogramming for Template-Constrained Protein Sequence Design	Devleena Das, Inkit Padhi, Payel Das, Pin-Yu Chen, Amit Dhurandhar
+24	C	Deep Unsupervised Learning for Biosynthetic Gene Cluster Characterization (video)	Carolina Rios-Martinez, Nick Bhattacharya, Ava P. Soleimany, Lorin Crawford, Kevin K Yang
+25	B	Prediction of cell-cell communication directly from scRNA-seq latent spaces (video)	Tessa Durakis Green, Linus J Schumacher, Debora Susan Marks, Chris Sander
+26	B	InterDocker: End-to-End Cross-Attentive and Geometric Transformers for Efficient Iterative Protein Docking	Allan Dos Santos Costa, Manvitha Ponnapati, Eric Alcaide, Kalyan Palepu, Suhaas M Bhat, Pranam Chaterjee, JOSEPH JACOBSON, Iddo Drori
+27	B	Prediction and design of biological sequences combining evolutionary sequence data with sparse labels (video)	Ada Shaw, Jung-Eun Shin, Debora Susan Marks
+28	B	Modeling gene regulatory network dynamics in tumor through graph embedding alignment (video)	Hao Chen, Xiong Liu, Joseph Xu Zhou
+29	B	ProGSNN: Deep Multi-Scale Protein Representation Learning using Geometric Scattering	Egbert Castro, Dhananjay Bhaskar, Jackson Grady, Smita Krishnaswamy
+30	B	cov2vec: encoding the genomic manifold of 2+ million SARS CoV2 viral sequences with protein language models. (video)	Salvatore Loguercio
+31	B	Protein language model embeddings for fast, accurate, alignment-free protein structure prediction	Konstantin Weißenow, Michael Heinzinger, Burkhard Rost
+32	B	A generative model of the human proteome using across-species and within-species sequence data	Jonathan Frazer, Mafalda Dias, Rose Orenbuch, Nikki Thadani, Kelly Brock
+33	C	MassFormer: Tandem Mass Spectrum Prediction with Graph Transformers (video)	Adamo Young, Bo Wang, Hannes Röst
+34	C	Prediction of cell-cell communication in scRNA-seq latent spaces (video)	Tessa Durakis Green, Linus J Schumacher, Debora Susan Marks, Chris Sander
+35	C	Similarity Neural Networks for RBP Binding Site Detection	Sepideh Saran, Mahsa Ghanbari, Uwe Ohler
+36	C	Joint embedding of sequence features (texts) and function labels (graphs) for protein function prediction	Yue Cao, Yang Shen
+37	C	Self-Supervised Vision Transformers Learn Disentangled Representations in Histopathology	Richard J. Chen, Rahul G Krishnan
+38	C	Contrastive VAE models to identify independent disease mechanisms in single-cell data (video)	Atanasiu Demian, Harry Rose, Sam Abujudeh, Meltem Gurel
+39	C	Benchmarking algorithms to identify clinically-relevant sub-populations of patients (video)	Manuela Salvucci, Meltem Gürel, Sam Abujudeh, Marika Catapano, Gregor Lueg, Matyas Korom, Manav Leslie, Peter McErlean, Francesca Mulas
+40	C	Interpretable graph representation learning for lectin-glycan binding (video)	Joyce An, Somesh Mohapatra, Omar A Santiago-Reyes, Daria E Kim, Laura Kiessling, Rafael Gomez-Bombarelli
+41	C	Vaccine Design using Machine Learning of Human Degrons (video)	Somesh Mohapatra, Nicholas L Truex, Mariane Bandeira Melo, Na Li, Wuhbet D Abraham, Jacob Joshua Lee Rodriguez, Darrell J Irvine, Bradley Pentelute, Rafael Gomez-Bombarelli
+42	C	Mapping Biology With a Unified Representation Space for Genomic and Chemical Perturbations to Enable Accelerated Drug Discovery (video)	Aurora S Blucher, Safiye Celik, James Douglas Jensen, James Taylor, Michael F Cuccarese, Jacob C Cooper, Jacob M Rinaldi, Carl Brooks, Michael A Statnick, Marta Fay, Nathan Lazar, Berton Earnshaw, Imran S Haque
+43	C	Simultaneous CUT&Tag profiling of the accessible and silenced regulome in single cells (video)	Derek H. Janssens, Dominik Jenz Otto, Michael P. Meers, Kami Ahmad, Manu Setty, Steven Henikoff
+44	C	Rarity: a framework for the discovery of putative rare cell populations from single-cell imaging data	Kaspar Märtens, Michele Bortolomeazzi, Francesca Ciccarelli, Christopher Yau
